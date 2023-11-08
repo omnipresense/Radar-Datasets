@@ -1,0 +1,13 @@
+{"Product":"OPS243-A"	 "rev":"D2"	 "flash":"1536"	 "features":"WiFi"}		
+{"Version":"1.2.0"}					
+{"Clock":1699390619}					
+{"Q2COUNT":"1153 (~23060 counts/sec) @t=1699390561.382"}					
+{"PowerMode":"Idle or Pulse"}					
+{"Power":"Max"}					
+{"SamplingRate":10000}					
+{"SampleSize":1024}					
+{"FFTScale":1	 "FFTSize":1024}				
+{"Resolution":0.0607	 "Unit":"mps"}				
+{"MagnitudeMin":20	 "MagnitudeMax":65536}				
+{"RequiredMinSpeed":0.000	 "RequiredMaxSpeed":"No Maximum Speed"	 "RequiredDirection":"Either"}			
+{"Units":"mps"}					
